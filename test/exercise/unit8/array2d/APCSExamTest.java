@@ -10,7 +10,6 @@ import static org.junit.jupiter.api.Assertions.*;
  * Created by autocarhung on 2018/5/17.
  */
 class APCSExamTest {
-
     private static boolean arraysEqual(int[][] one, int[][] two) {
         if(one.length != two.length)
             return false;
